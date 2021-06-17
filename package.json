@@ -1,0 +1,23 @@
+{
+  "name": "suly-tech",
+  "version": "1.0.0",
+  "description": "Suly Tech group",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azhi99/suly-tech.git"
+  },
+  "author": "Suly Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azhi99/suly-tech/issues"
+  },
+  "homepage": "https://github.com/Azhi99/suly-tech#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
