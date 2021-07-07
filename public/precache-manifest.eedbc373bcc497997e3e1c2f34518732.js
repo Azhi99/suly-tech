@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/suly logo.5dc8d690.png"
   },
   {
-    "revision": "67f8ca5ce2c2152b9ebb399bb70b5950",
+    "revision": "d61cb181e7868517d0f595291696e899",
     "url": "/index.html"
   },
   {
-    "revision": "35e96f31da93f6660759",
-    "url": "/js/app.be4bc19b.js"
+    "revision": "4a88501d5159e30f7ba7",
+    "url": "/js/app.90725e7e.js"
   },
   {
     "revision": "8559375025709e732c76",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9f253ca23ae00f0cbc05f089b72e871f.js"
+  "/precache-manifest.eedbc373bcc497997e3e1c2f34518732.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "suly-tech-vue"});
